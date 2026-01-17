@@ -87,16 +87,19 @@
 - None currently
 
 **Next Actions:**
-1. Begin Phase A tool and material inventory
-2. Set up sales tracking spreadsheet
-3. Take photos and list first batch of items
-4. Research HVAC and electrical contractors for Phase B planning
+1. Continue listing Phase A items (more power tools, hand tools, yardwork equipment, wood)
+2. Count missing receptacle covers and junction boxes (zero-cost assessment)
+3. Assess office closet floor damage (zero-cost assessment)
+4. Start calling contractors for quotes when ready (HVAC, roofing, stucco)
 
 ---
 
 ## Recent Updates
 - [2026-01-17] Photograph and list power tools on Facebook Marketplace: Posted belt sander for $100 (Status: in progress)
 - [2026-01-17] Set up tracking spreadsheet (Item | List Price | Platform | Status | Sale Price | Date | Buyer Contact): Created phase-a-sales-tracker.md with tables for active listings, pending sales, and completed sales (Status: done)
+- [2026-01-17] Research local roofing contractors (minimum 3): Identified 3 contractors (Glick's, Becker's, R K Conrad) with strong reviews; ready to call (Status: done)
+- [2026-01-17] Research stucco repair contractors: Identified 3 contractors (Glick's, R K Conrad, Dunvegan) with remediation experience; ready to call (Status: done)
+- [2026-01-17] Schedule diagnostic appointment with HVAC technician: Researched 3 HVAC contractors specializing in mini-splits; ready to call for quotes (Status: in progress)
 
 ---
 

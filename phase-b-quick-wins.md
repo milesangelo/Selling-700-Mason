@@ -34,28 +34,28 @@ Tasks you can start now while Phase A sales generate funds for larger repairs.
 ## Tier 2: Research & Contractor Prep (Do Second)
 **Time Investment: ~3 hours total**
 
-### 4. Research HVAC Contractors (Mini-Split Repair)
-- [ ] Google search: "HVAC mini-split repair Kennett Square PA"
-- [ ] Check Google reviews and ratings (look for 4+ stars)
-- [ ] Create list of 5-7 candidates with phone numbers
-- [ ] Note which ones specialize in mini-splits or heat pumps
-- [ ] Check if they service your mini-split brand
-- **Cost:** $0 | **Time:** 45 min | **Deliverable:** Ready-to-call list
+### 4. Research HVAC Contractors (Mini-Split Repair) ✅ COMPLETE
+- [x] Google search: "HVAC mini-split repair Kennett Square PA"
+- [x] Check Google reviews and ratings (look for 4+ stars)
+- [x] Create list of 5-7 candidates with phone numbers
+- [x] Note which ones specialize in mini-splits or heat pumps
+- [x] Check if they service your mini-split brand
+- **Cost:** $0 | **Time:** 45 min | **Deliverable:** ✅ See `phase-b-contractor-tracker.md`
 
-### 5. Research Roofing Contractors
-- [ ] Google search: "roofing contractors Kennett Square PA"
-- [ ] Check Google reviews, BBB ratings, Angi/HomeAdvisor
-- [ ] Create list of 5-7 candidates with phone numbers
-- [ ] Note if they offer free estimates
-- [ ] Check if licensed/insured (should be stated on website)
-- **Cost:** $0 | **Time:** 45 min | **Deliverable:** Ready-to-call list
+### 5. Research Roofing Contractors ✅ COMPLETE
+- [x] Google search: "roofing contractors Kennett Square PA"
+- [x] Check Google reviews, BBB ratings, Angi/HomeAdvisor
+- [x] Create list of 5-7 candidates with phone numbers
+- [x] Note if they offer free estimates
+- [x] Check if licensed/insured (should be stated on website)
+- **Cost:** $0 | **Time:** 45 min | **Deliverable:** ✅ See `phase-b-contractor-tracker.md`
 
-### 6. Research Stucco Repair Contractors
-- [ ] Google search: "stucco repair Kennett Square PA" or "masonry contractors"
-- [ ] Check reviews and project photos
-- [ ] Create list of 3-5 candidates with phone numbers
-- [ ] Note specialty (some do general masonry, some focus on stucco)
-- **Cost:** $0 | **Time:** 30 min | **Deliverable:** Ready-to-call list
+### 6. Research Stucco Repair Contractors ✅ COMPLETE
+- [x] Google search: "stucco repair Kennett Square PA" or "masonry contractors"
+- [x] Check reviews and project photos
+- [x] Create list of 3-5 candidates with phone numbers
+- [x] Note specialty (some do general masonry, some focus on stucco)
+- **Cost:** $0 | **Time:** 30 min | **Deliverable:** ✅ See `phase-b-contractor-tracker.md`
 
 ### 7. Research Licensed Electricians
 - [ ] Google search: "licensed electrician Kennett Square PA"
@@ -64,11 +64,11 @@ Tasks you can start now while Phase A sales generate funds for larger repairs.
 - [ ] Note if they do residential panel work
 - **Cost:** $0 | **Time:** 30 min | **Deliverable:** Ready-to-call list
 
-### 8. Create Contractor Contact Sheet
-- [ ] Consolidate all contractor research into one document
-- [ ] Format: Trade | Business Name | Phone | Website | Notes
-- [ ] Add columns for: Called (Y/N) | Quote Received | Amount
-- **Cost:** $0 | **Time:** 15 min | **Deliverable:** Single tracking document
+### 8. Create Contractor Contact Sheet ✅ COMPLETE
+- [x] Consolidate all contractor research into one document
+- [x] Format: Trade | Business Name | Phone | Website | Notes
+- [x] Add columns for: Called (Y/N) | Quote Received | Amount
+- **Cost:** $0 | **Time:** 15 min | **Deliverable:** ✅ `phase-b-contractor-tracker.md` with call scripts
 
 ---
 

@@ -6,15 +6,21 @@ Project management repository for preparing 700 Mason for sale. This repo tracks
 
 ```
 Selling-700-Mason/
-├── readme.md                    # This file
-├── plan.md                      # Master plan with phase details
-├── status.md                    # Current status and progress tracking
+├── readme.md                        # This file
+├── CLAUDE.md                        # Guidance for Claude Code instances
+├── plan.md                          # Master plan with phase details
+├── status.md                        # Current status and progress tracking
 ├── tasks/
-│   ├── phaseA.md               # Phase A: Convert Excess → Cash & Space
-│   ├── phaseB.md               # Phase B: Kill Inspection Red Flags
-│   ├── phaseC.md               # Phase C: Visual Finish + Value Add
-│   └── phaseD.md               # Phase D: Pre-Inspection Awareness & Minor Cleanup
-└── .claude/commands/            # Custom slash commands for task management
+│   ├── phaseA.md                   # Phase A: Convert Excess → Cash & Space
+│   ├── phaseB.md                   # Phase B: Kill Inspection Red Flags
+│   ├── phaseC.md                   # Phase C: Visual Finish + Value Add
+│   └── phaseD.md                   # Phase D: Pre-Inspection Awareness & Minor Cleanup
+├── phase-a-sales-tracker.md        # Sales tracking for Phase A liquidation
+├── phase-b-contractor-tracker.md   # Contractor contacts and quote tracking
+├── phase-b-quick-wins.md           # Low-cost Phase B tasks to do now
+├── phase-c-budget.md               # Phase C cost breakdown and planning
+├── kenn-sq-contractors-shortlist.md # Detailed contractor research results
+└── .claude/commands/                # Custom slash commands for task management
 ```
 
 ## Four-Phase Strategy

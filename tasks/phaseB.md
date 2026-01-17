@@ -4,6 +4,8 @@
 
 ### Mini-Split System
 - [ ] Schedule diagnostic appointment with HVAC technician
+  Progress Updates:
+  - [2026-01-17] Researched 3 HVAC contractors specializing in mini-splits; ready to call for quotes (Status: in progress)
 - [ ] Document current symptoms (condenser not running, error codes, etc.)
 - [ ] Get diagnosis and repair quote
 - [ ] Order replacement board if confirmed as the issue
@@ -48,7 +50,9 @@
 - [ ] Photograph repair
 
 ### Roofing
-- [ ] Research local roofing contractors (minimum 3)
+- [x] Research local roofing contractors (minimum 3)
+  Progress Updates:
+  - [2026-01-17] Identified 3 contractors (Glick's, Becker's, R K Conrad) with strong reviews; ready to call (Status: done)
 - [ ] Schedule on-site assessments
 - [ ] Get written quotes with scope of work
 - [ ] Document any current leaks or damage
@@ -58,7 +62,9 @@
 - [ ] If disclosing: prepare documentation for listing
 
 ### Stucco Sagging
-- [ ] Research stucco repair contractors
+- [x] Research stucco repair contractors
+  Progress Updates:
+  - [2026-01-17] Identified 3 contractors (Glick's, R K Conrad, Dunvegan) with remediation experience; ready to call (Status: done)
 - [ ] Schedule assessments for sagging areas
 - [ ] Get written quotes with scope and timeline
 - [ ] Understand cause (structural vs. cosmetic vs. moisture)

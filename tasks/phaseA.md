@@ -6,6 +6,8 @@
 - [ ] Inventory all tools in garage, basement, and storage
 - [ ] Separate "needed for remaining work" from "sell"
 - [ ] Photograph and list power tools on Facebook Marketplace
+  Progress Updates:
+  - [2026-01-17] Posted belt sander for $100 (Status: in progress)
 - [ ] Photograph and list hand tools in bulk lots
 - [ ] Price competitively (60-70% of retail for good condition)
 - [ ] Track all sales in spreadsheet (item, platform, price, date)
@@ -34,7 +36,9 @@
 - [ ] Note: Funds from this sale go directly to recirculating hood budget
 
 ### Sales Platform Strategy
-- [ ] Set up tracking spreadsheet (Item | List Price | Platform | Status | Sale Price | Date | Buyer Contact)
+- [x] Set up tracking spreadsheet (Item | List Price | Platform | Status | Sale Price | Date | Buyer Contact)
+  Progress Updates:
+  - [2026-01-17] Created phase-a-sales-tracker.md with tables for active listings, pending sales, and completed sales (Status: done)
 - [ ] Take high-quality photos with clean backgrounds
 - [ ] Write clear descriptions with measurements
 - [ ] Respond to inquiries within 2 hours

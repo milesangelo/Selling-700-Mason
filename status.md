@@ -94,6 +94,12 @@
 
 ---
 
+## Recent Updates
+- [2026-01-17] Photograph and list power tools on Facebook Marketplace: Posted belt sander for $100 (Status: in progress)
+- [2026-01-17] Set up tracking spreadsheet (Item | List Price | Platform | Status | Sale Price | Date | Buyer Contact): Created phase-a-sales-tracker.md with tables for active listings, pending sales, and completed sales (Status: done)
+
+---
+
 ## Notes
 - This status document should be updated weekly
 - Check off items as they are completed

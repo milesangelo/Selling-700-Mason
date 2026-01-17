@@ -42,6 +42,8 @@
 
 ### Office Closet Floor
 - [ ] Assess damage/hole in office closet floor
+  Progress Updates:
+  - [2026-01-17] Starting assessment and planning repair approach (Status: in progress)
 - [ ] Determine repair method (patch vs. replace section)
 - [ ] Purchase materials (plywood, screws, filler, etc.)
 - [ ] Cut and fit patch

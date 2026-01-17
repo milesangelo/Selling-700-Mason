@@ -100,6 +100,7 @@
 - [2026-01-17] Research local roofing contractors (minimum 3): Identified 3 contractors (Glick's, Becker's, R K Conrad) with strong reviews; ready to call (Status: done)
 - [2026-01-17] Research stucco repair contractors: Identified 3 contractors (Glick's, R K Conrad, Dunvegan) with remediation experience; ready to call (Status: done)
 - [2026-01-17] Schedule diagnostic appointment with HVAC technician: Researched 3 HVAC contractors specializing in mini-splits; ready to call for quotes (Status: in progress)
+- [2026-01-17] Assess damage/hole in office closet floor: Starting assessment and planning repair approach (Status: in progress)
 
 ---
 

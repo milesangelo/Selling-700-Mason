@@ -1,6 +1,6 @@
 # 700 Mason — Project Status
 
-**Last Updated:** 2026-01-17
+**Last Updated:** 2026-01-20
 **Current Phase:** Phase A — Convert Excess → Cash & Space
 
 ---
@@ -89,12 +89,14 @@
 **Next Actions:**
 1. Continue listing Phase A items (more power tools, hand tools, yardwork equipment, wood)
 2. Count missing receptacle covers and junction boxes (zero-cost assessment)
-3. Assess office closet floor damage (zero-cost assessment)
+3. Sand, stain, and seal office closet floor
 4. Start calling contractors for quotes when ready (HVAC, roofing, stucco)
 
 ---
 
 ## Recent Updates
+- [2026-01-20] Schedule diagnostic appointment with HVAC technician: Called ComfortFlow; $89 diagnostic fee waived; tech scheduled today to diagnose condenser (Status: in progress)
+- [2026-01-18] Office closet floor repair: Installed new floor; sanding, staining, and sealing remaining (Status: in progress)
 - [2026-01-17] Photograph and list power tools on Facebook Marketplace: Posted belt sander for $100 (Status: in progress)
 - [2026-01-17] Set up tracking spreadsheet (Item | List Price | Platform | Status | Sale Price | Date | Buyer Contact): Created phase-a-sales-tracker.md with tables for active listings, pending sales, and completed sales (Status: done)
 - [2026-01-17] Research local roofing contractors (minimum 3): Identified 3 contractors (Glick's, Becker's, R K Conrad) with strong reviews; ready to call (Status: done)

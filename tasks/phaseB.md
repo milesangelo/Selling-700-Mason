@@ -6,6 +6,7 @@
 - [ ] Schedule diagnostic appointment with HVAC technician
   Progress Updates:
   - [2026-01-17] Researched 3 HVAC contractors specializing in mini-splits; ready to call for quotes (Status: in progress)
+  - [2026-01-20] Called ComfortFlow; $89 diagnostic fee waived; tech scheduled today to diagnose condenser (Status: in progress)
 - [ ] Document current symptoms (condenser not running, error codes, etc.)
 - [ ] Get diagnosis and repair quote
 - [ ] Order replacement board if confirmed as the issue
@@ -41,14 +42,17 @@
 - [ ] Label circuits if possible for future reference
 
 ### Office Closet Floor
-- [ ] Assess damage/hole in office closet floor
+- [x] Assess damage/hole in office closet floor
   Progress Updates:
   - [2026-01-17] Starting assessment and planning repair approach (Status: in progress)
-- [ ] Determine repair method (patch vs. replace section)
-- [ ] Purchase materials (plywood, screws, filler, etc.)
-- [ ] Cut and fit patch
-- [ ] Secure patch properly to floor joists
-- [ ] Sand smooth and finish to match (if visible)
+  - [2026-01-18] Assessment complete and repair approach confirmed (Status: done)
+- [x] Determine repair method (patch vs. replace section)
+- [x] Purchase materials (plywood, screws, filler, etc.)
+- [x] Cut and fit patch
+- [x] Secure patch properly to floor joists
+  Progress Updates:
+  - [2026-01-18] Installed new floor in office closet; sanding, staining, and sealing remain (Status: done)
+- [ ] Sand, stain, and seal to match (if visible)
 - [ ] Photograph repair
 
 ### Roofing

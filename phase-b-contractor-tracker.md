@@ -8,7 +8,7 @@
 
 | Business | Phone | Contact Date | Quote Received | Amount | Notes | Status |
 |----------|-------|--------------|----------------|--------|-------|--------|
-| **ComfortFlow HVAC Repair** | (484) 789-6100 | - | - | - | 4.8★ (116) Google; handles board/circuit issues; clear estimates | 📞 Ready to call |
+| **ComfortFlow HVAC Repair** | (484) 789-6100 | 2026-01-20 | - | - | 4.8★ (116) Google; handles board/circuit issues; clear estimates; $89 diagnostic fee waived; tech scheduled today to diagnose condenser | 🗓️ Scheduled today |
 | **R. Brooks Mechanical** | (855) 912-6489 | - | - | - | 4.9★ (63) Google; licensed/bonded/insured; free estimates | 📞 Ready to call |
 | **Bullet Proof Heating & Air** | (610) 563-4443 | - | - | - | Services mini-splits; free estimates for major repairs | 📞 Ready to call |
 
